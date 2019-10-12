@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: produto-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bdiasti
+Implementation-Vendor-Id: br.com.mercardo
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/produto-service
+Created-By: Maven Integration for Eclipse
+
